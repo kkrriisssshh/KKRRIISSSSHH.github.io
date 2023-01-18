@@ -1,3 +1,39 @@
+body {
+    font-family: 'Fira Code', monospace;
+}
+
+header {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+header>img {
+    border-radius: 5px;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centered {
+    font-family: 'Unbounded', cursive;
+    font-size: 40px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.7;
+}
+
+.seperate {
+    margin-top: 4.5;
+    margin-bottom: 4.5;
+}
+
 .py-hide {
     display: none;
 }
