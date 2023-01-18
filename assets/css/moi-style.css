@@ -1,0 +1,26 @@
+.py-hide {
+    display: none;
+}
+
+.nim-hide {
+    display: none;
+}
+
+.js-hide {
+    display: none;
+}
+
+.py:hover+.py-hide {
+    display: block;
+    color: rgb(255, 255, 255);
+}
+
+.nim:hover+.nim-hide {
+    display: block;
+    color: rgb(255, 255, 255);
+}
+
+.js:hover+.js-hide {
+    display: block;
+    color: rgb(255, 255, 255);
+}
