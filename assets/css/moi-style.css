@@ -49,17 +49,17 @@ header>img {
     display: none;
 }
 
-.py:hover+.py-hide {
+.py:hover + .py-hide {
     display: block;
     color: rgb(255, 255, 255);
 }
 
-.nim:hover+.nim-hide {
+.nim:hover + .nim-hide {
     display: block;
     color: rgb(255, 255, 255);
 }
 
-.js:hover+.js-hide {
+.js:hover + .js-hide {
     display: block;
     color: rgb(255, 255, 255);
 }
