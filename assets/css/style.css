@@ -43,3 +43,7 @@ header > img {
     justify-items: center;
     flex-direction: column;
 }
+
+.btns > a {
+    color: #fafafb;
+}
