@@ -1,5 +1,5 @@
 <style lang="css">
-    @import url(https://igoradamenko.github.io/awsm.css/css/awsm_theme_black.min.css);
+    @import url(https://raw.githubusercontent.com/kkrriisssshh/kkrriisssshh.github.io/main/public/awsm.css);
 </style>
 <template>
     <div>
