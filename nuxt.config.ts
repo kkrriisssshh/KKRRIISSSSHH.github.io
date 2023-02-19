@@ -1,3 +1,11 @@
+useServerSeoMeta({
+    title: 'krissh',
+    ogTitle: 'krissh',
+    description: 'smartest man on earth',
+    ogDescription: 'smartest man on earth',
+    ogImage: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg',
+    twitterCard: 'summary_large_image',
+})
 export default defineNuxtConfig({
     app: {
         head: {
