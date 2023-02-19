@@ -91,7 +91,7 @@ nav a:visited {
 article header h1 a:visited:hover,
 article header h2 a:visited:hover,
 nav a:hover {
-    color: #3c43c5
+    color: #ffb900
 }
 
 ol,
@@ -356,7 +356,7 @@ article>footer {
 }
 
 a:visited {
-    color: #7b4a29
+    color: #dc49fd
 }
 
 a:active,
@@ -365,7 +365,7 @@ a:hover {
 }
 
 a:hover {
-    color: #75c53c
+    color: #ffb900
 }
 
 abbr {

@@ -1,5 +1,6 @@
 <style lang="css">
-    @import url(https://raw.githubusercontent.com/kkrriisssshh/kkrriisssshh.github.io/main/public/awsm.css);
+    @import url(public/awsm.css);
+    @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css);
 </style>
 <template>
     <div>
@@ -26,6 +27,7 @@
                 </li>
               </ul>
             </nav>
+            <Separate></Separate>
         </header>
     </div>
 </template>
